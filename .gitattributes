@@ -1,3 +1,3 @@
 *.sql linguist-detectable=true
-*.sql linguist-language=sqlite
-*.my linguist-language=sqlite
+*.sql linguist-language=sql
+*.my linguist-language=sql
